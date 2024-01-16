@@ -96,7 +96,7 @@ class linkedList:
 
 
 
-'''
+
 myList=linkedList()
 
 myList.append(5)
@@ -112,7 +112,7 @@ print(myList.rating(5))
 for i in myList:
   print(i)
 
-'''
+
 
 lista=linkedList()
 for i in lista:
